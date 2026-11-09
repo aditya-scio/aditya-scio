@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Aditya Kumar, Early Engineer at Glean">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF2E93"><animate attributeName="stop-color" values="#FF2E93;#FF8A00;#7C3AED;#FF2E93" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="0.5" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#FF2E93;#00C2FF;#7C3AED" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#00C2FF"><animate attributeName="stop-color" values="#00C2FF;#7C3AED;#FF8A00;#00C2FF" dur="9s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2.2" fill="#FFFFFF" opacity="0.2"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="460" rx="30"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="460" fill="url(#bg)"/>
+    <circle cx="180" cy="90" r="170" fill="#FFD600" opacity="0.8" filter="url(#blur)">
+      <animate attributeName="cx" values="180;420;180" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;230;90" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="330" r="190" fill="#00F0FF" opacity="0.75" filter="url(#blur)">
+      <animate attributeName="cx" values="1010;760;1010" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="330;170;330" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="420" r="150" fill="#FF2E93" opacity="0.7" filter="url(#blur)">
+      <animate attributeName="cx" values="620;840;420;620" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <rect width="1200" height="460" fill="url(#dots)"/>
+
+    <g transform="translate(330,92) scale(1.3)"><path d="M0 -22 C 3 -6, 6 -3, 22 0 C 6 3, 3 6, 0 22 C -3 6, -6 3, -22 0 C -6 -3, -3 -6, 0 -22 Z" fill="#FFFFFF" stroke="#111111" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.25;0.5" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.2s" begin="0s" repeatCount="indefinite"/></path></g><g transform="translate(880,70) scale(0.9)"><path d="M0 -22 C 3 -6, 6 -3, 22 0 C 6 3, 3 6, 0 22 C -3 6, -6 3, -22 0 C -6 -3, -3 -6, 0 -22 Z" fill="#FFD600" stroke="#111111" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.25;0.5" dur="1.8s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" begin="0.4s" repeatCount="indefinite"/></path></g><g transform="translate(95,300) scale(1.0)"><path d="M0 -22 C 3 -6, 6 -3, 22 0 C 6 3, 3 6, 0 22 C -3 6, -6 3, -22 0 C -6 -3, -3 -6, 0 -22 Z" fill="#00E5FF" stroke="#111111" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.25;0.5" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></path></g><g transform="translate(1120,300) scale(1.4)"><path d="M0 -22 C 3 -6, 6 -3, 22 0 C 6 3, 3 6, 0 22 C -3 6, -6 3, -22 0 C -6 -3, -3 -6, 0 -22 Z" fill="#FFFFFF" stroke="#111111" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.25;0.5" dur="2.0s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.0s" begin="0.2s" repeatCount="indefinite"/></path></g><g transform="translate(560,60) scale(0.7)"><path d="M0 -22 C 3 -6, 6 -3, 22 0 C 6 3, 3 6, 0 22 C -3 6, -6 3, -22 0 C -6 -3, -3 -6, 0 -22 Z" fill="#FFD600" stroke="#111111" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.25;0.5" dur="1.6s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.6s" begin="1.0s" repeatCount="indefinite"/></path></g><g transform="translate(1010,345) scale(0.8)"><path d="M0 -22 C 3 -6, 6 -3, 22 0 C 6 3, 3 6, 0 22 C -3 6, -6 3, -22 0 C -6 -3, -3 -6, 0 -22 Z" fill="#FF2E93" stroke="#111111" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.25;0.5" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></path></g><g transform="translate(215,350) scale(0.7)"><path d="M0 -22 C 3 -6, 6 -3, 22 0 C 6 3, 3 6, 0 22 C -3 6, -6 3, -22 0 C -6 -3, -3 -6, 0 -22 Z" fill="#FFFFFF" stroke="#111111" stroke-width="3" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.25;0.5" dur="1.9s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.9s" begin="1.2s" repeatCount="indefinite"/></path></g>
+
+    <g><g transform="translate(150,112) rotate(-14)"><polygon points="12,-48 -26,6 -4,6 -14,48 26,-10 4,-10" fill="#FFD600" stroke="#111111" stroke-width="6" stroke-linejoin="round"/></g><animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="2.4s" repeatCount="indefinite"/></g>
+    <g><circle cx="1105" cy="205" r="20" fill="none" stroke="#111111" stroke-width="7"/><animateTransform attributeName="transform" type="translate" values="0 0;0 14;0 0" dur="3.1s" repeatCount="indefinite"/></g>
+    <g><polyline points="60,205 80,187 100,205 120,187 140,205 160,187 180,205" fill="none" stroke="#111111" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="2.8s" repeatCount="indefinite"/></g>
+    <g><path d="M742 52 h34 M759 35 v34" stroke="#111111" stroke-width="8" stroke-linecap="round"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="2.0s" repeatCount="indefinite"/></g>
+
+    <g transform="translate(1030,108)">
+      <g>
+        <polygon points="82.0,0.0 60.8,12.1 75.8,31.4 51.6,34.4 58.0,58.0 34.4,51.6 31.4,75.8 12.1,60.8 0.0,82.0 -12.1,60.8 -31.4,75.8 -34.4,51.6 -58.0,58.0 -51.6,34.4 -75.8,31.4 -60.8,12.1 -82.0,0.0 -60.8,-12.1 -75.8,-31.4 -51.6,-34.4 -58.0,-58.0 -34.4,-51.6 -31.4,-75.8 -12.1,-60.8 -0.0,-82.0 12.1,-60.8 31.4,-75.8 34.4,-51.6 58.0,-58.0 51.6,-34.4 75.8,-31.4 60.8,-12.1" fill="#FFD600" stroke="#111111" stroke-width="6" stroke-linejoin="round"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <text transform="rotate(10)" y="17" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="46" fill="#111111">HI!</text>
+    </g>
+
+    <g font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="132" text-anchor="middle">
+      <text x="611" y="263" fill="#111111" textLength="900" lengthAdjust="spacingAndGlyphs">ADITYA KUMAR</text>
+      <text x="600" y="252" fill="#FFFFFF" stroke="#111111" stroke-width="10" stroke-linejoin="round" paint-order="stroke" textLength="900" lengthAdjust="spacingAndGlyphs">ADITYA KUMAR</text>
+    </g>
+
+    <g transform="translate(600,326)">
+      <g transform="rotate(-3)">
+        <rect x="-262" y="-28" width="540" height="72" rx="36" fill="#111111"/>
+        <rect x="-270" y="-36" width="540" height="72" rx="36" fill="#FFD600" stroke="#111111" stroke-width="6"/>
+        <text y="12" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="33" fill="#111111" textLength="460" lengthAdjust="spacingAndGlyphs">EARLY ENGINEER @ GLEAN</text>
+        <animateTransform attributeName="transform" type="rotate" values="-3;1.5;-3" dur="3.2s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <rect y="396" width="1200" height="64" fill="#111111"/>
+    <g font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="25" fill="#FFD600">
+      <text x="0" y="437" textLength="1580" lengthAdjust="spacing">SHIP IT ★ BUILD ★ BREAK ★ FIX ★ REPEAT ★ GO ★ TYPESCRIPT ★ JAVA ★ PYTHON ★ STAY CURIOUS ★ </text>
+      <text x="1600" y="437" textLength="1580" lengthAdjust="spacing">SHIP IT ★ BUILD ★ BREAK ★ FIX ★ REPEAT ★ GO ★ TYPESCRIPT ★ JAVA ★ PYTHON ★ STAY CURIOUS ★ </text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1600 0" dur="16s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <rect x="3" y="3" width="1194" height="454" rx="28" fill="none" stroke="#111111" stroke-width="6"/>
+</svg>
