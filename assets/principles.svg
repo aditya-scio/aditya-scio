@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Principles. One: zero to one, then one to scale. Two: simple systems for hard problems. Three: owned end to end.">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E9CF8B"/><stop offset="0.5" stop-color="#B8934A"/><stop offset="1" stop-color="#E9CF8B"/>
+    </linearGradient></defs>
+  <rect width="1200" height="300" rx="6" fill="#F4ECD8"/>
+  <rect x="20" y="20" width="1160" height="260" fill="none" stroke="#B8934A" stroke-width="1.4"/>
+  <rect x="28" y="28" width="1144" height="244" fill="none" stroke="#B8934A" stroke-width="0.6"/>
+  <text x="600" y="78" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="17" fill="#143524" textLength="190" lengthAdjust="spacing">PRINCIPLES</text>
+  <line x1="330" y1="72" x2="480" y2="72" stroke="#B8934A" stroke-width="1"/><line x1="720" y1="72" x2="870" y2="72" stroke="#B8934A" stroke-width="1"/>
+  <text x="200" y="150" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="34" fill="#A8843E">I</text>
+  <text x="200" y="196" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="25" fill="#143524">Zero to one,</text>
+  <text x="200" y="230" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="25" fill="#143524">then one to scale.</text><text x="600" y="150" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="34" fill="#A8843E">II</text>
+  <text x="600" y="196" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="25" fill="#143524">Simple systems</text>
+  <text x="600" y="230" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="25" fill="#143524">for hard problems.</text><line x1="400" y1="118" x2="400" y2="240" stroke="#B8934A" stroke-width="1"/><text x="1000" y="150" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-size="34" fill="#A8843E">III</text>
+  <text x="1000" y="196" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="25" fill="#143524">Owned</text>
+  <text x="1000" y="230" text-anchor="middle" font-family="Didot, 'Bodoni 72', 'Bodoni MT', 'Playfair Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="25" fill="#143524">end to end.</text><line x1="800" y1="118" x2="800" y2="240" stroke="#B8934A" stroke-width="1"/>
+</svg>
